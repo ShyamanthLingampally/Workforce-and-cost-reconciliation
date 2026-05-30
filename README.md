@@ -74,6 +74,6 @@ Closing the paid-but-no-tracking flag alone resolves nearly the entire cost cont
 
 For more information, please contact:
 
-**Email:** [Shyamanthlingampally3@gmail.com](mailto:Shyamanthlingampally3@gmail.com)
+**Email:** [lshyamanth@gmail.com](mailto:lshyamanth@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/shyamanth19a02](https://linkedin.com/in/shyamanth19a02)
