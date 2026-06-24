@@ -1,6 +1,6 @@
 # Workforce Visibility and Labor Cost Reconciliation
 
-An interview case study for a Strategic Operations role. The brief asked for a weekly metrics framework across three disconnected labor tracking systems at a commercial aviation maintenance operation. The analysis reframes the problem from data reconciliation into operational cost control.
+An interview case study for a Strategic Operations role. The brief asked for a weekly metrics framework across three disconnected labor tracking systems at a aviation maintenance operation. The analysis reframes the problem from data reconciliation into operational cost control.
 
 *Note: the dataset is synthetic. Names and dates were fabricated for the exercise. Company-specific references have been removed.*
 
@@ -75,5 +75,3 @@ Closing the paid-but-no-tracking flag alone resolves nearly the entire cost cont
 For more information, please contact:
 
 **Email:** [lshyamanth@gmail.com](mailto:lshyamanth@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/shyamanth19a02](https://linkedin.com/in/shyamanth19a02)
